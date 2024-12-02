@@ -1,0 +1,7 @@
+#img {
+    background-image: url('first_img.jpg');
+    height: 500px;
+    width: 800px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
